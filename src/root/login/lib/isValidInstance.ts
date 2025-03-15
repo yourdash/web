@@ -3,7 +3,14 @@
  * YourDash is licensed under the MIT License. (https://ewsgit.mit-license.org)
  */
 
-import { InstanceStatus } from "@yourdash/backend/src/types/instanceStatus.js";
+enum InstanceStatus {
+  // eslint-disable-next-line no-unused-vars
+  MAINTENANCE,
+  OK,
+  INVISIBLE,
+  NON_FUNCTIONAL,
+  UNKNOWN,
+}
 
 export default function isValidInstance(instanceUrl: string): Promise<boolean> {
   const instanceUrlWithoutProtocol = instanceUrl?.split("://")[1];
