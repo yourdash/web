@@ -7,7 +7,7 @@ import { Outlet } from "react-router";
 import PanelLayout from "./panel/PanelLayout.tsx";
 import React, { useState } from "react";
 import styles from "./AppLayout.module.scss";
-import ApplicationPanelContext from "@yourdash/panel-context/src/index.ts";
+import ApplicationPanelContext from "@yourdash/web/src/lib/panelContext.ts";
 
 const AppLayout: React.FC = () => {
   const isStandalone = new URLSearchParams(window.location.search).has("standalone");
