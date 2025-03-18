@@ -1,4 +1,4 @@
-import { j as jsxRuntimeExports, U as UKImage, a as UKHeading, b as UKBox, c as clippy, d as UKFlex, e as compilerRuntimeExports, u as useNavigate, f as UKIconButton, g as UKIcons, h as UKSeparator, i as UKPageHeader, k as UKText, R as Routes, l as Route } from "./index-CkkUjQUU.js";
+import { j as jsxRuntimeExports, U as UKImage, a as UKHeading, b as UKBox, c as clippy, d as UKFlex, e as compilerRuntimeExports, u as useNavigate, f as UKIconButton, g as UKIcons, h as UKSeparator, i as UKPageHeader, k as UKText, R as Routes, l as Route } from "./index-jbNsdDnQ.js";
 const component$1 = "_component_1kaw9_6";
 const styles$1 = {
   component: component$1
@@ -136,4 +136,4 @@ const DocsRouter = () => /* @__PURE__ */ jsxRuntimeExports.jsx(Routes, { childre
 export {
   DocsRouter as default
 };
-//# sourceMappingURL=ProjectsRouter-UyQ9RieV.js.map
+//# sourceMappingURL=ProjectsRouter-DiDWeud5.js.map

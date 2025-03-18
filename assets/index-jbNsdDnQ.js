@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./ProjectsRouter-UyQ9RieV.js","./ProjectsRouter-CJRna95Z.css"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./ProjectsRouter-DiDWeud5.js","./ProjectsRouter-CJRna95Z.css"])))=>i.map(i=>d[i]);
 (function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) {
@@ -19785,7 +19785,7 @@ const Navigation = (t0) => {
   let t15;
   let t16;
   if ($[19] === Symbol.for("react.memo_cache_sentinel")) {
-    t15 = /* @__PURE__ */ jsxRuntimeExports.jsx(UKLink, { className: styles$7.link, hideLinkIcon: true, text: "a530c5d3f1f34701ba1c7c18379d1fd6f256af86", to: `https://github.com/yourdash/yourdash/tree/${"a530c5d3f1f34701ba1c7c18379d1fd6f256af86"}` });
+    t15 = /* @__PURE__ */ jsxRuntimeExports.jsx(UKLink, { className: styles$7.link, hideLinkIcon: true, text: "3ebaa4d1e8cefcc388c548e340f37f44521ba45e", to: `https://github.com/yourdash/yourdash/tree/${"3ebaa4d1e8cefcc388c548e340f37f44521ba45e"}` });
     t16 = /* @__PURE__ */ jsxRuntimeExports.jsx(UKText, { text: ` @ ` });
     $[19] = t15;
     $[20] = t16;
@@ -20944,7 +20944,7 @@ var loadable$2 = loadable;
 loadable$2.lib = loadable$1;
 var lazy$2 = lazy;
 lazy$2.lib = lazy$1;
-const ProjectsRouter = loadable$2(() => __vitePreload(() => import("./ProjectsRouter-UyQ9RieV.js"), true ? __vite__mapDeps([0,1]) : void 0, import.meta.url));
+const ProjectsRouter = loadable$2(() => __vitePreload(() => import("./ProjectsRouter-DiDWeud5.js"), true ? __vite__mapDeps([0,1]) : void 0, import.meta.url));
 const element = document.getElementById("root");
 const loadingElement = document.createElement("h1");
 loadingElement.style.display = "flex";
@@ -20990,4 +20990,4 @@ export {
   Route as l,
   useNavigate as u
 };
-//# sourceMappingURL=index-CkkUjQUU.js.map
+//# sourceMappingURL=index-jbNsdDnQ.js.map
