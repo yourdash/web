@@ -31,7 +31,7 @@ importers:
         version: file:lib/tunnel-embedded(@types/react-dom@19.0.4(@types/react@19.0.10))(@types/react@19.0.10)(path-browserify@1.0.1)(react-dom@19.0.0(react@19.0.0))(react-router-dom@7.3.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react-router@7.3.0(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)(vite@6.2.2(@types/node@20.17.24)(jiti@1.21.7)(sass@1.85.1)(yaml@2.7.0))
       '@yourdash/uikit-embedded':
         specifier: file:./lib/uikit-embedded/
-        version: file:lib/uikit-embedded(nbekrwsfxh7habs25zpclop2i4)
+        version: file:lib/uikit-embedded(dbb70a4c21bb1e9fede3e148964272e0)
       animate.css:
         specifier: ^4.1.1
         version: 4.1.1
@@ -2933,7 +2933,7 @@ snapshots:
     transitivePeerDependencies:
       - vite
 
-  '@yourdash/uikit-embedded@file:lib/uikit-embedded(nbekrwsfxh7habs25zpclop2i4)':
+  '@yourdash/uikit-embedded@file:lib/uikit-embedded(dbb70a4c21bb1e9fede3e148964272e0)':
     dependencies:
       '@tailwindcss/container-queries': 0.1.1(tailwindcss@3.4.17)
       '@typescript-eslint/eslint-plugin': 8.26.1(@typescript-eslint/parser@8.26.1(eslint@9.22.0(jiti@1.21.7))(typescript@5.8.2))(eslint@9.22.0(jiti@1.21.7))(typescript@5.8.2)
